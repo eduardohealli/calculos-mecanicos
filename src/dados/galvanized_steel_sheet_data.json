@@ -1,0 +1,67 @@
+[
+  {
+    "gauge": 32,
+    "thickness": 0.30,
+    "mass": 2.40
+  },
+  {
+    "gauge": 30,
+    "thickness": 0.35,
+    "mass": 2.80
+  },
+  {
+    "gauge": 28,
+    "thickness": 0.43,
+    "mass": 3.44
+  },
+  {
+    "gauge": 26,
+    "thickness": 0.50,
+    "mass": 4.00
+  },
+  {
+    "gauge": 24,
+    "thickness": 0.65,
+    "mass": 5.20
+  },
+  {
+    "gauge": 22,
+    "thickness": 0.80,
+    "mass": 6.40
+  },
+  {
+    "gauge": 20,
+    "thickness": 0.95,
+    "mass": 7.60
+  },
+  {
+    "gauge": 19,
+    "thickness": 1.11,
+    "mass": 8.88
+  },
+  {
+    "gauge": 18,
+    "thickness": 1.25,
+    "mass": 10.00
+  },
+  {
+    "gauge": 16,
+    "thickness": 1.55,
+    "mass": 12.40
+  },
+  {
+    "gauge": 14,
+    "thickness": 1.95,
+    "mass": 15.60
+  },
+  {
+    "gauge": 12,
+    "thickness": 2.65,
+    "mass": 21.20
+  },
+  {
+    "gauge": 10,
+    "thickness": 3.35,
+    "mass": 26.80
+  }
+]
